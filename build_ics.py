@@ -211,7 +211,9 @@ def build_event(team, ev, now):
     if not start:
         return None
 
-    title = f"{team['label']}: {matchup(ev, comp)}"
+    # No team prefix in the title — each feed is its own calendar, so the
+    # matchup alone reads cleaner, especially on a phone's month view.
+    title = matchup(ev, comp)
     uid = f"espn-{ev.get('id')}-{team['key']}@sports-cal"
 
     # DTSTAMP is stamped with the event's start, not build time, so rebuilding
