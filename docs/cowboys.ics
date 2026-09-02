@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sports-cal//ESPN feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cowboys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401873279-cowboys@sports-cal
+DTSTAMP:20260816T000000Z
+DTSTART:20260816T000000Z
+DTEND:20260816T031500Z
+SUMMARY:Cowboys: DAL @ SEA
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Dallas Cowboys at Seattle Seahawks\nPreseason Week 1\nTV: NFL N
+ et\, KING 5\nhttps://www.espn.com/nfl/game/_/gameId/401873279
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401874101-cowboys@sports-cal
+DTSTAMP:20260823T020000Z
+DTSTART:20260823T020000Z
+DTEND:20260823T051500Z
+SUMMARY:Cowboys: DAL @ ARI
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Dallas Cowboys at Arizona Cardinals\nPreseason Week 2\nTV: NFL 
+ Net\nhttps://www.espn.com/nfl/game/_/gameId/401874101
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401874048-cowboys@sports-cal
+DTSTAMP:20260829T000000Z
+DTSTART:20260829T000000Z
+DTEND:20260829T031500Z
+SUMMARY:Cowboys: NO @ DAL
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:New Orleans Saints at Dallas Cowboys\nPreseason Week 3\nTV: ESP
+ N Unlmtd\, Fox 8\nhttps://www.espn.com/nfl/game/_/gameId/401874048
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872930-cowboys@sports-cal
+DTSTAMP:20260914T002000Z
+DTSTART:20260914T002000Z
+DTEND:20260914T033500Z
+SUMMARY:Cowboys: DAL @ NYG
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Dallas Cowboys at New York Giants\nWeek 1\nTV: NBC\nhttps://www
+ .espn.com/nfl/game/_/gameId/401872930
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872944-cowboys@sports-cal
+DTSTAMP:20260920T202500Z
+DTSTART:20260920T202500Z
+DTEND:20260920T234000Z
+SUMMARY:Cowboys: WSH @ DAL
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Washington Commanders at Dallas Cowboys\nWeek 2\nTV: FOX\nhttps
+ ://www.espn.com/nfl/game/_/gameId/401872944
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872960-cowboys@sports-cal
+DTSTAMP:20260927T202500Z
+DTSTART:20260927T202500Z
+DTEND:20260927T234000Z
+SUMMARY:Cowboys: BAL VS DAL
+LOCATION:Maracanã Stadium\, Rio De Janeiro
+DESCRIPTION:Baltimore Ravens at Dallas Cowboys\nWeek 3\nTV: CBS\nhttps://ww
+ w.espn.com/nfl/game/_/gameId/401872960
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872967-cowboys@sports-cal
+DTSTAMP:20261004T170000Z
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+SUMMARY:Cowboys: DAL @ HOU
+LOCATION:Reliant Stadium\, Houston\, TX
+DESCRIPTION:Dallas Cowboys at Houston Texans\nWeek 4\nTV: FOX\nhttps://www.
+ espn.com/nfl/game/_/gameId/401872967
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872980-cowboys@sports-cal
+DTSTAMP:20261009T001500Z
+DTSTART:20261009T001500Z
+DTEND:20261009T033000Z
+SUMMARY:Cowboys: TB @ DAL
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Tampa Bay Buccaneers at Dallas Cowboys\nWeek 5\nTV: Prime Video
+ \nhttps://www.espn.com/nfl/game/_/gameId/401872980
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873007-cowboys@sports-cal
+DTSTAMP:20261019T002000Z
+DTSTART:20261019T002000Z
+DTEND:20261019T033500Z
+SUMMARY:Cowboys: DAL @ GB
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Dallas Cowboys at Green Bay Packers\nWeek 6\nTV: NBC\nhttps://w
+ ww.espn.com/nfl/game/_/gameId/401873007
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873009-cowboys@sports-cal
+DTSTAMP:20261027T001500Z
+DTSTART:20261027T001500Z
+DTEND:20261027T033000Z
+SUMMARY:Cowboys: DAL @ PHI
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 7\nTV: ESPN\, ABC\n
+ https://www.espn.com/nfl/game/_/gameId/401873009
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873024-cowboys@sports-cal
+DTSTAMP:20261101T180000Z
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+SUMMARY:Cowboys: ARI @ DAL
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Arizona Cardinals at Dallas Cowboys\nWeek 8\nTV: FOX\nhttps://w
+ ww.espn.com/nfl/game/_/gameId/401873024
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873040-cowboys@sports-cal
+DTSTAMP:20261108T180000Z
+DTSTART:20261108T180000Z
+DTEND:20261108T211500Z
+SUMMARY:Cowboys: DAL @ IND
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Dallas Cowboys at Indianapolis Colts\nWeek 9\nTV: FOX\nhttps://
+ www.espn.com/nfl/game/_/gameId/401873040
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873063-cowboys@sports-cal
+DTSTAMP:20261115T212500Z
+DTSTART:20261115T212500Z
+DTEND:20261116T004000Z
+SUMMARY:Cowboys: SF @ DAL
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:San Francisco 49ers at Dallas Cowboys\nWeek 10\nTV: FOX\nhttps:
+ //www.espn.com/nfl/game/_/gameId/401873063
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873073-cowboys@sports-cal
+DTSTAMP:20261122T180000Z
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+SUMMARY:Cowboys: TEN @ DAL
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Tennessee Titans at Dallas Cowboys\nWeek 11\nTV: FOX\nhttps://w
+ ww.espn.com/nfl/game/_/gameId/401873073
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873080-cowboys@sports-cal
+DTSTAMP:20261126T213000Z
+DTSTART:20261126T213000Z
+DTEND:20261127T004500Z
+SUMMARY:Cowboys: PHI @ DAL
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Philadelphia Eagles at Dallas Cowboys\nWeek 12\nTV: FOX\nhttps:
+ //www.espn.com/nfl/game/_/gameId/401873080
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873108-cowboys@sports-cal
+DTSTAMP:20261208T011500Z
+DTSTART:20261208T011500Z
+DTEND:20261208T043000Z
+SUMMARY:Cowboys: DAL @ SEA
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Dallas Cowboys at Seattle Seahawks\nWeek 13\nTV: ESPN\, ABC\nht
+ tps://www.espn.com/nfl/game/_/gameId/401873108
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873136-cowboys@sports-cal
+DTSTAMP:20261220T212500Z
+DTSTART:20261220T212500Z
+DTEND:20261221T004000Z
+SUMMARY:Cowboys: DAL @ LAR
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Dallas Cowboys at Los Angeles Rams\nWeek 15\nTV: CBS\nhttps://w
+ ww.espn.com/nfl/game/_/gameId/401873136
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873154-cowboys@sports-cal
+DTSTAMP:20261228T012000Z
+DTSTART:20261228T012000Z
+DTEND:20261228T043500Z
+SUMMARY:Cowboys: JAX @ DAL
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Jacksonville Jaguars at Dallas Cowboys\nWeek 16\nTV: NBC\nhttps
+ ://www.espn.com/nfl/game/_/gameId/401873154
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873165-cowboys@sports-cal
+DTSTAMP:20270103T180000Z
+DTSTART:20270103T180000Z
+DTEND:20270103T211500Z
+SUMMARY:Cowboys: NYG @ DAL
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:New York Giants at Dallas Cowboys\nWeek 17\nTV: FOX\nhttps://ww
+ w.espn.com/nfl/game/_/gameId/401873165
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873175-cowboys@sports-cal
+DTSTAMP:20270110T050000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Cowboys: DAL @ WSH (time TBD)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Dallas Cowboys at Washington Commanders\nWeek 18\nhttps://www.e
+ spn.com/nfl/game/_/gameId/401873175
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sports-cal//ESPN feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UTSA
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401862700-utsa@sports-cal
+DTSTAMP:20260905T193000Z
+DTSTART:20260905T193000Z
+DTEND:20260905T230000Z
+SUMMARY:UTSA: RGV @ UTSA
+LOCATION:Alamodome\, San Antonio\, TX
+DESCRIPTION:UT Rio Grande Valley Vaqueros at UTSA Roadrunners\nWeek 1\nTV: 
+ ESPN+\nhttps://www.espn.com/college-football/game/_/gameId/401862700
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401860884-utsa@sports-cal
+DTSTAMP:20260912T193000Z
+DTSTART:20260912T193000Z
+DTEND:20260912T230000Z
+SUMMARY:UTSA: UTSA @ TXST
+LOCATION:UFCU Stadium\, San Marcos\, TX
+DESCRIPTION:UTSA Roadrunners at Texas State Bobcats\nWeek 2\nTV: CW\nhttps:
+ //www.espn.com/college-football/game/_/gameId/401860884
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401856693-utsa@sports-cal
+DTSTAMP:20260920T000000Z
+DTSTART:20260920T000000Z
+DTEND:20260920T033000Z
+SUMMARY:UTSA: UTSA @ TEX
+LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
+DESCRIPTION:UTSA Roadrunners at Texas Longhorns\nWeek 3\nTV: SECN+\nhttps:/
+ /www.espn.com/college-football/game/_/gameId/401856693
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401860896-utsa@sports-cal
+DTSTAMP:20260926T040000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:UTSA: CSU @ UTSA (time TBD)
+LOCATION:Alamodome\, San Antonio\, TX
+DESCRIPTION:Colorado State Rams at UTSA Roadrunners\nWeek 4\nhttps://www.es
+ pn.com/college-football/game/_/gameId/401860896
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401862788-utsa@sports-cal
+DTSTAMP:20261003T040000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:UTSA: UTSA @ RICE (time TBD)
+LOCATION:Rice Stadium\, Houston\, TX
+DESCRIPTION:UTSA Roadrunners at Rice Owls\nWeek 5\nhttps://www.espn.com/col
+ lege-football/game/_/gameId/401862788
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401862794-utsa@sports-cal
+DTSTAMP:20261008T233000Z
+DTSTART:20261008T233000Z
+DTEND:20261009T030000Z
+SUMMARY:UTSA: USF @ UTSA
+LOCATION:Alamodome\, San Antonio\, TX
+DESCRIPTION:South Florida Bulls at UTSA Roadrunners\nWeek 6\nhttps://www.es
+ pn.com/college-football/game/_/gameId/401862794
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401862804-utsa@sports-cal
+DTSTAMP:20261017T040000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:UTSA: NAVY @ UTSA (time TBD)
+LOCATION:Alamodome\, San Antonio\, TX
+DESCRIPTION:Navy Midshipmen at UTSA Roadrunners\nWeek 7\nhttps://www.espn.c
+ om/college-football/game/_/gameId/401862804
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401862811-utsa@sports-cal
+DTSTAMP:20261024T040000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:UTSA: UTSA @ TULN (time TBD)
+LOCATION:Yulman Stadium\, New Orleans\, LA
+DESCRIPTION:UTSA Roadrunners at Tulane Green Wave\nWeek 8\nhttps://www.espn
+ .com/college-football/game/_/gameId/401862811
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401862817-utsa@sports-cal
+DTSTAMP:20261106T010000Z
+DTSTART:20261106T010000Z
+DTEND:20261106T043000Z
+SUMMARY:UTSA: UTSA @ FAU
+LOCATION:Flagler Credit Union Stadium\, Boca Raton\, FL
+DESCRIPTION:UTSA Roadrunners at Florida Atlantic Owls\nWeek 10\nhttps://www
+ .espn.com/college-football/game/_/gameId/401862817
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401862827-utsa@sports-cal
+DTSTAMP:20261114T050000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:UTSA: UNT @ UTSA (time TBD)
+LOCATION:Alamodome\, San Antonio\, TX
+DESCRIPTION:North Texas Mean Green at UTSA Roadrunners\nWeek 11\nhttps://ww
+ w.espn.com/college-football/game/_/gameId/401862827
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401862836-utsa@sports-cal
+DTSTAMP:20261121T050000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:UTSA: UTSA @ UAB (time TBD)
+LOCATION:Protective Stadium\, Birmingham\, AL
+DESCRIPTION:UTSA Roadrunners at UAB Blazers\nWeek 12\nhttps://www.espn.com/
+ college-football/game/_/gameId/401862836
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401862840-utsa@sports-cal
+DTSTAMP:20261128T050000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:UTSA: TLSA @ UTSA (time TBD)
+LOCATION:Alamodome\, San Antonio\, TX
+DESCRIPTION:Tulsa Golden Hurricane at UTSA Roadrunners\nWeek 13\nhttps://ww
+ w.espn.com/college-football/game/_/gameId/401862840
+END:VEVENT
+END:VCALENDAR
