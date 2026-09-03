@@ -263,8 +263,8 @@ DTSTART:20261129T210000Z
 DTEND:20261129T233000Z
 SUMMARY:BOS @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Boston Celtics at San Antonio Spurs\nhttps://www.espn.com/nba/g
- ame/_/gameId/401910052
+DESCRIPTION:Boston Celtics at San Antonio Spurs\nTV: NBA TV\nhttps://www.es
+ pn.com/nba/game/_/gameId/401910052
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910066-spurs@sports-cal
@@ -393,8 +393,8 @@ DTSTART:20261231T180000Z
 DTEND:20261231T203000Z
 SUMMARY:SA @ CHA
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:San Antonio Spurs at Charlotte Hornets\nhttps://www.espn.com/nb
- a/game/_/gameId/401910226
+DESCRIPTION:San Antonio Spurs at Charlotte Hornets\nTV: NBA TV\nhttps://www
+ .espn.com/nba/game/_/gameId/401910226
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910235-spurs@sports-cal
@@ -403,8 +403,8 @@ DTSTART:20270101T220000Z
 DTEND:20270102T003000Z
 SUMMARY:SA @ WSH
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:San Antonio Spurs at Washington Wizards\nhttps://www.espn.com/n
- ba/game/_/gameId/401910235
+DESCRIPTION:San Antonio Spurs at Washington Wizards\nTV: NBA TV\nhttps://ww
+ w.espn.com/nba/game/_/gameId/401910235
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910257-spurs@sports-cal
@@ -413,8 +413,8 @@ DTSTART:20270104T000000Z
 DTEND:20270104T023000Z
 SUMMARY:SA @ MIN
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:San Antonio Spurs at Minnesota Timberwolves\nhttps://www.espn.c
- om/nba/game/_/gameId/401910257
+DESCRIPTION:San Antonio Spurs at Minnesota Timberwolves\nTV: NBA TV\nhttps:
+ //www.espn.com/nba/game/_/gameId/401910257
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910277-spurs@sports-cal
@@ -733,8 +733,8 @@ DTSTART:20270320T000000Z
 DTEND:20270320T023000Z
 SUMMARY:DAL @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Dallas Mavericks at San Antonio Spurs\nhttps://www.espn.com/nba
- /game/_/gameId/401910768
+DESCRIPTION:Dallas Mavericks at San Antonio Spurs\nTV: NBA TV\nhttps://www.
+ espn.com/nba/game/_/gameId/401910768
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910784-spurs@sports-cal
