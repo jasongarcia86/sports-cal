@@ -683,8 +683,8 @@ DTSTART:20270310T010000Z
 DTEND:20270310T033000Z
 SUMMARY:WSH @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Washington Wizards at San Antonio Spurs\nhttps://www.espn.com/n
- ba/game/_/gameId/401910694
+DESCRIPTION:Washington Wizards at San Antonio Spurs\nTV: MNMT\nhttps://www.
+ espn.com/nba/game/_/gameId/401910694
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910707-spurs@sports-cal
