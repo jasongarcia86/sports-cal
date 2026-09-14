@@ -40,13 +40,13 @@ DESCRIPTION:UTSA Roadrunners at Texas Longhorns\nWeek 3\nTV: SECN+\nhttps:/
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401860896-utsa@sports-cal
-DTSTAMP:20260926T040000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:CSU @ UTSA (time TBD)
+DTSTAMP:20260926T160000Z
+DTSTART:20260926T160000Z
+DTEND:20260926T193000Z
+SUMMARY:CSU @ UTSA
 LOCATION:Alamodome\, San Antonio\, TX
-DESCRIPTION:Colorado State Rams at UTSA Roadrunners\nWeek 4\nhttps://www.es
- pn.com/college-football/game/_/gameId/401860896
+DESCRIPTION:Colorado State Rams at UTSA Roadrunners\nWeek 4\nTV: ESPNU\nhtt
+ ps://www.espn.com/college-football/game/_/gameId/401860896
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401862788-utsa@sports-cal
