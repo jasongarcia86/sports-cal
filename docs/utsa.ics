@@ -73,13 +73,13 @@ DESCRIPTION:South Florida Bulls at UTSA Roadrunners\nWeek 6\nTV: ESPN\nhttp
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401862804-utsa@sports-cal
-DTSTAMP:20261017T040000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:NAVY @ UTSA (time TBD)
+DTSTAMP:20261018T000000Z
+DTSTART:20261018T000000Z
+DTEND:20261018T033000Z
+SUMMARY:NAVY @ UTSA
 LOCATION:Alamodome\, San Antonio\, TX
-DESCRIPTION:Navy Midshipmen at UTSA Roadrunners\nWeek 7\nhttps://www.espn.c
- om/college-football/game/_/gameId/401862804
+DESCRIPTION:Navy Midshipmen at UTSA Roadrunners\nWeek 7\nTV: ESPNU\nhttps:/
+ /www.espn.com/college-football/game/_/gameId/401862804
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401862811-utsa@sports-cal

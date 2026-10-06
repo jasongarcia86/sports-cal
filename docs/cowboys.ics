@@ -57,7 +57,7 @@ DTSTART:20260920T202500Z
 DTEND:20260920T234000Z
 SUMMARY:WSH @ DAL
 LOCATION:AT&T Stadium\, Arlington\, TX
-DESCRIPTION:Washington Commanders at Dallas Cowboys\nWeek 2\nTV: FOX\nhttps
+DESCRIPTION:Washington Commanders at Dallas Cowboys\nWeek 2\nTV: Fox\nhttps
  ://www.espn.com/nfl/game/_/gameId/401872944
 STATUS:CONFIRMED
 END:VEVENT
@@ -79,7 +79,7 @@ DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
 SUMMARY:DAL @ HOU
 LOCATION:Reliant Stadium\, Houston\, TX
-DESCRIPTION:Dallas Cowboys at Houston Texans\nWeek 4\nTV: FOX\nhttps://www.
+DESCRIPTION:Dallas Cowboys at Houston Texans\nWeek 4\nTV: Fox\nhttps://www.
  espn.com/nfl/game/_/gameId/401872967
 STATUS:CONFIRMED
 END:VEVENT
@@ -120,7 +120,7 @@ DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
 SUMMARY:ARI @ DAL
 LOCATION:AT&T Stadium\, Arlington\, TX
-DESCRIPTION:Arizona Cardinals at Dallas Cowboys\nWeek 8\nTV: FOX\nhttps://w
+DESCRIPTION:Arizona Cardinals at Dallas Cowboys\nWeek 8\nTV: Fox\nhttps://w
  ww.espn.com/nfl/game/_/gameId/401873024
 END:VEVENT
 BEGIN:VEVENT
@@ -130,7 +130,7 @@ DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
 SUMMARY:DAL @ IND
 LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
-DESCRIPTION:Dallas Cowboys at Indianapolis Colts\nWeek 9\nTV: FOX\nhttps://
+DESCRIPTION:Dallas Cowboys at Indianapolis Colts\nWeek 9\nTV: Fox\nhttps://
  www.espn.com/nfl/game/_/gameId/401873040
 END:VEVENT
 BEGIN:VEVENT
@@ -140,7 +140,7 @@ DTSTART:20261115T212500Z
 DTEND:20261116T004000Z
 SUMMARY:SF @ DAL
 LOCATION:AT&T Stadium\, Arlington\, TX
-DESCRIPTION:San Francisco 49ers at Dallas Cowboys\nWeek 10\nTV: FOX\nhttps:
+DESCRIPTION:San Francisco 49ers at Dallas Cowboys\nWeek 10\nTV: Fox\nhttps:
  //www.espn.com/nfl/game/_/gameId/401873063
 END:VEVENT
 BEGIN:VEVENT
@@ -150,7 +150,7 @@ DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
 SUMMARY:TEN @ DAL
 LOCATION:AT&T Stadium\, Arlington\, TX
-DESCRIPTION:Tennessee Titans at Dallas Cowboys\nWeek 11\nTV: FOX\nhttps://w
+DESCRIPTION:Tennessee Titans at Dallas Cowboys\nWeek 11\nTV: Fox\nhttps://w
  ww.espn.com/nfl/game/_/gameId/401873073
 END:VEVENT
 BEGIN:VEVENT
@@ -160,7 +160,7 @@ DTSTART:20261126T213000Z
 DTEND:20261127T004500Z
 SUMMARY:PHI @ DAL
 LOCATION:AT&T Stadium\, Arlington\, TX
-DESCRIPTION:Philadelphia Eagles at Dallas Cowboys\nWeek 12\nTV: FOX\nhttps:
+DESCRIPTION:Philadelphia Eagles at Dallas Cowboys\nWeek 12\nTV: Fox\nhttps:
  //www.espn.com/nfl/game/_/gameId/401873080
 END:VEVENT
 BEGIN:VEVENT
@@ -200,7 +200,7 @@ DTSTART:20270103T180000Z
 DTEND:20270103T211500Z
 SUMMARY:NYG @ DAL
 LOCATION:AT&T Stadium\, Arlington\, TX
-DESCRIPTION:New York Giants at Dallas Cowboys\nWeek 17\nTV: FOX\nhttps://ww
+DESCRIPTION:New York Giants at Dallas Cowboys\nWeek 17\nTV: Fox\nhttps://ww
  w.espn.com/nfl/game/_/gameId/401873165
 END:VEVENT
 BEGIN:VEVENT

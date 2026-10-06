@@ -62,10 +62,10 @@ DESCRIPTION:Texas Longhorns at Oklahoma Sooners\nWeek 6\nTV: ABC\nhttps://w
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401856724-longhorns@sports-cal
-DTSTAMP:20261017T040000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:FLA @ TEX (time TBD)
+DTSTAMP:20261017T160000Z
+DTSTART:20261017T160000Z
+DTEND:20261017T193000Z
+SUMMARY:FLA @ TEX
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 DESCRIPTION:Florida Gators at Texas Longhorns\nWeek 7\nhttps://www.espn.com
  /college-football/game/_/gameId/401856724
