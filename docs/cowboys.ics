@@ -110,8 +110,8 @@ DTSTART:20261027T001500Z
 DTEND:20261027T033000Z
 SUMMARY:DAL @ PHI
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
-DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 7\nTV: ESPN\, ABC\n
- https://www.espn.com/nfl/game/_/gameId/401873009
+DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 7\nTV: ESPN\, ABC\,
+  Disney+\nhttps://www.espn.com/nfl/game/_/gameId/401873009
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401873024-cowboys@sports-cal
