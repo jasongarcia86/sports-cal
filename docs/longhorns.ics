@@ -59,6 +59,7 @@ SUMMARY:TEX VS OU
 LOCATION:Cotton Bowl\, Dallas\, TX
 DESCRIPTION:Texas Longhorns at Oklahoma Sooners\nWeek 6\nTV: ABC\nhttps://w
  ww.espn.com/college-football/game/_/gameId/401856717
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401856724-longhorns@sports-cal
@@ -67,8 +68,8 @@ DTSTART:20261017T160000Z
 DTEND:20261017T193000Z
 SUMMARY:FLA @ TEX
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
-DESCRIPTION:Florida Gators at Texas Longhorns\nWeek 7\nhttps://www.espn.com
- /college-football/game/_/gameId/401856724
+DESCRIPTION:Florida Gators at Texas Longhorns\nWeek 7\nTV: ABC\nhttps://www
+ .espn.com/college-football/game/_/gameId/401856724
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401856732-longhorns@sports-cal
