@@ -84,13 +84,13 @@ DESCRIPTION:Navy Midshipmen at UTSA Roadrunners\nWeek 7\nTV: ESPNU\nhttps:/
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401862811-utsa@sports-cal
-DTSTAMP:20261024T040000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:UTSA @ TULN (time TBD)
+DTSTAMP:20261025T000000Z
+DTSTART:20261025T000000Z
+DTEND:20261025T033000Z
+SUMMARY:UTSA @ TULN
 LOCATION:Yulman Stadium\, New Orleans\, LA
-DESCRIPTION:UTSA Roadrunners at Tulane Green Wave\nWeek 8\nhttps://www.espn
- .com/college-football/game/_/gameId/401862811
+DESCRIPTION:UTSA Roadrunners at Tulane Green Wave\nWeek 8\nTV: ESPNU\nhttps
+ ://www.espn.com/college-football/game/_/gameId/401862811
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401862817-utsa@sports-cal

@@ -73,13 +73,13 @@ DESCRIPTION:Florida Gators at Texas Longhorns\nWeek 7\nTV: ABC\nhttps://www
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401856732-longhorns@sports-cal
-DTSTAMP:20261024T040000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:MISS @ TEX (time TBD)
+DTSTAMP:20261024T233000Z
+DTSTART:20261024T233000Z
+DTEND:20261025T030000Z
+SUMMARY:MISS @ TEX
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
-DESCRIPTION:Ole Miss Rebels at Texas Longhorns\nWeek 8\nhttps://www.espn.co
- m/college-football/game/_/gameId/401856732
+DESCRIPTION:Ole Miss Rebels at Texas Longhorns\nWeek 8\nTV: ABC\nhttps://ww
+ w.espn.com/college-football/game/_/gameId/401856732
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401856737-longhorns@sports-cal
