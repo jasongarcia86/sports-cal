@@ -59,6 +59,7 @@ SUMMARY:SAC @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:Sacramento Kings at San Antonio Spurs\nhttps://www.espn.com/nba
  /game/_/gameId/401898843
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909090-spurs@sports-cal
