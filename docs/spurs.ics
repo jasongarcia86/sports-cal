@@ -88,8 +88,8 @@ DTSTART:20261025T000000Z
 DTEND:20261025T023000Z
 SUMMARY:SA @ DAL
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:San Antonio Spurs at Dallas Mavericks\nhttps://www.espn.com/nba
- /game/_/gameId/401909858
+DESCRIPTION:San Antonio Spurs at Dallas Mavericks\nTV: NBA League Pass\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401909858
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909879-spurs@sports-cal
@@ -98,8 +98,8 @@ DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
 SUMMARY:SAC @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Sacramento Kings at San Antonio Spurs\nhttps://www.espn.com/nba
- /game/_/gameId/401909879
+DESCRIPTION:Sacramento Kings at San Antonio Spurs\nTV: NBA League Pass\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401909879
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909890-spurs@sports-cal
@@ -108,8 +108,8 @@ DTSTART:20261029T010000Z
 DTEND:20261029T033000Z
 SUMMARY:SA @ UTAH
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:San Antonio Spurs at Utah Jazz\nhttps://www.espn.com/nba/game/_
- /gameId/401909890
+DESCRIPTION:San Antonio Spurs at Utah Jazz\nTV: NBA League Pass\nhttps://ww
+ w.espn.com/nba/game/_/gameId/401909890
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909901-spurs@sports-cal
@@ -118,8 +118,8 @@ DTSTART:20261101T000000Z
 DTEND:20261101T023000Z
 SUMMARY:MIN @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Minnesota Timberwolves at San Antonio Spurs\nhttps://www.espn.c
- om/nba/game/_/gameId/401909901
+DESCRIPTION:Minnesota Timberwolves at San Antonio Spurs\nTV: NBA League Pas
+ s\nhttps://www.espn.com/nba/game/_/gameId/401909901
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909917-spurs@sports-cal
@@ -128,8 +128,8 @@ DTSTART:20261103T013000Z
 DTEND:20261103T040000Z
 SUMMARY:UTAH @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Utah Jazz at San Antonio Spurs\nhttps://www.espn.com/nba/game/_
- /gameId/401909917
+DESCRIPTION:Utah Jazz at San Antonio Spurs\nTV: NBA League Pass\nhttps://ww
+ w.espn.com/nba/game/_/gameId/401909917
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909933-spurs@sports-cal

@@ -84,10 +84,10 @@ DESCRIPTION:Ole Miss Rebels at Texas Longhorns\nWeek 8\nTV: ABC\nhttps://ww
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401856737-longhorns@sports-cal
-DTSTAMP:20261031T040000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:MSST @ TEX (time TBD)
+DTSTAMP:20261031T233000Z
+DTSTART:20261031T233000Z
+DTEND:20261101T030000Z
+SUMMARY:MSST @ TEX
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 DESCRIPTION:Mississippi State Bulldogs at Texas Longhorns\nWeek 9\nhttps://
  www.espn.com/college-football/game/_/gameId/401856737
