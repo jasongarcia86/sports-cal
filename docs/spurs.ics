@@ -13,8 +13,8 @@ DTSTART:20261009T000000Z
 DTEND:20261009T023000Z
 SUMMARY:ATL @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Atlanta Hawks at San Antonio Spurs\nhttps://www.espn.com/nba/ga
- me/_/gameId/401898394
+DESCRIPTION:Atlanta Hawks at San Antonio Spurs\nTV: DAZN SAS\nhttps://www.e
+ spn.com/nba/game/_/gameId/401898394
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -99,8 +99,8 @@ DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
 SUMMARY:SAC @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Sacramento Kings at San Antonio Spurs\nTV: NBA League Pass\nhtt
- ps://www.espn.com/nba/game/_/gameId/401909879
+DESCRIPTION:Sacramento Kings at San Antonio Spurs\nTV: NBA League Pass\, NB
+ C Sports CA\nhttps://www.espn.com/nba/game/_/gameId/401909879
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909890-spurs@sports-cal
@@ -149,8 +149,8 @@ DTSTART:20261107T030000Z
 DTEND:20261107T053000Z
 SUMMARY:SA @ SAC
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:San Antonio Spurs at Sacramento Kings\nhttps://www.espn.com/nba
- /game/_/gameId/401909295
+DESCRIPTION:San Antonio Spurs at Sacramento Kings\nTV: NBC Sports CA\nhttps
+ ://www.espn.com/nba/game/_/gameId/401909295
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909944-spurs@sports-cal
@@ -159,8 +159,8 @@ DTSTART:20261108T030000Z
 DTEND:20261108T053000Z
 SUMMARY:SA @ POR
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:San Antonio Spurs at Portland Trail Blazers\nhttps://www.espn.c
- om/nba/game/_/gameId/401909944
+DESCRIPTION:San Antonio Spurs at Portland Trail Blazers\nTV: KUNP 16\, Blaz
+ erVision\nhttps://www.espn.com/nba/game/_/gameId/401909944
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909958-spurs@sports-cal
@@ -179,8 +179,8 @@ DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
 SUMMARY:SA @ CHI
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:San Antonio Spurs at Chicago Bulls\nhttps://www.espn.com/nba/ga
- me/_/gameId/401909969
+DESCRIPTION:San Antonio Spurs at Chicago Bulls\nTV: CHSN\nhttps://www.espn.
+ com/nba/game/_/gameId/401909969
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909302-spurs@sports-cal
@@ -239,8 +239,8 @@ DTSTART:20261124T030000Z
 DTEND:20261124T053000Z
 SUMMARY:SA @ SAC
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:San Antonio Spurs at Sacramento Kings\nhttps://www.espn.com/nba
- /game/_/gameId/401910045
+DESCRIPTION:San Antonio Spurs at Sacramento Kings\nTV: NBC Sports CA\nhttps
+ ://www.espn.com/nba/game/_/gameId/401910045
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909325-spurs@sports-cal
@@ -249,8 +249,8 @@ DTSTART:20261126T030000Z
 DTEND:20261126T053000Z
 SUMMARY:SA @ POR
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:San Antonio Spurs at Portland Trail Blazers\nTV: ESPN\nhttps://
- www.espn.com/nba/game/_/gameId/401909325
+DESCRIPTION:San Antonio Spurs at Portland Trail Blazers\nTV: ESPN\, KUNP 16
+ \, BlazerVision\nhttps://www.espn.com/nba/game/_/gameId/401909325
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909333-spurs@sports-cal
@@ -269,8 +269,8 @@ DTSTART:20261129T210000Z
 DTEND:20261129T233000Z
 SUMMARY:BOS @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Boston Celtics at San Antonio Spurs\nTV: NBA TV\nhttps://www.es
- pn.com/nba/game/_/gameId/401910052
+DESCRIPTION:Boston Celtics at San Antonio Spurs\nTV: NBA TV\, NBC Sports BO
+ \nhttps://www.espn.com/nba/game/_/gameId/401910052
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910066-spurs@sports-cal
@@ -279,8 +279,8 @@ DTSTART:20261201T010000Z
 DTEND:20261201T033000Z
 SUMMARY:SA @ MIL
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:San Antonio Spurs at Milwaukee Bucks\nhttps://www.espn.com/nba/
- game/_/gameId/401910066
+DESCRIPTION:San Antonio Spurs at Milwaukee Bucks\nTV: MyMi\nhttps://www.esp
+ n.com/nba/game/_/gameId/401910066
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910088-spurs@sports-cal
@@ -329,8 +329,8 @@ DTSTART:20261219T010000Z
 DTEND:20261219T033000Z
 SUMMARY:CHI @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Chicago Bulls at San Antonio Spurs\nhttps://www.espn.com/nba/ga
- me/_/gameId/401910144
+DESCRIPTION:Chicago Bulls at San Antonio Spurs\nTV: CHSN\nhttps://www.espn.
+ com/nba/game/_/gameId/401910144
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910155-spurs@sports-cal
@@ -359,8 +359,8 @@ DTSTART:20261224T003000Z
 DTEND:20261224T030000Z
 SUMMARY:SA @ BKN
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:San Antonio Spurs at Brooklyn Nets\nhttps://www.espn.com/nba/ga
- me/_/gameId/401910176
+DESCRIPTION:San Antonio Spurs at Brooklyn Nets\nTV: DAZN (YES)\nhttps://www
+ .espn.com/nba/game/_/gameId/401910176
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909097-spurs@sports-cal
@@ -499,8 +499,8 @@ DTSTART:20270124T203000Z
 DTEND:20270124T230000Z
 SUMMARY:POR @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Portland Trail Blazers at San Antonio Spurs\nhttps://www.espn.c
- om/nba/game/_/gameId/401910406
+DESCRIPTION:Portland Trail Blazers at San Antonio Spurs\nTV: KUNP 16\, Blaz
+ erVision\nhttps://www.espn.com/nba/game/_/gameId/401910406
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910424-spurs@sports-cal
@@ -549,8 +549,8 @@ DTSTART:20270203T033000Z
 DTEND:20270203T060000Z
 SUMMARY:SA @ LAC
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:San Antonio Spurs at LA Clippers\nhttps://www.espn.com/nba/game
- /_/gameId/401910480
+DESCRIPTION:San Antonio Spurs at LA Clippers\nTV: ClipperVision\nhttps://ww
+ w.espn.com/nba/game/_/gameId/401910480
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910494-spurs@sports-cal
@@ -579,8 +579,8 @@ DTSTART:20270210T010000Z
 DTEND:20270210T033000Z
 SUMMARY:SA @ DAL
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:San Antonio Spurs at Dallas Mavericks\nTV: NBC\nhttps://www.esp
- n.com/nba/game/_/gameId/401910533
+DESCRIPTION:San Antonio Spurs at Dallas Mavericks\nTV: NBC\, KFAA-TV\, Mavs
+ TV\nhttps://www.espn.com/nba/game/_/gameId/401910533
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910551-spurs@sports-cal
@@ -759,8 +759,8 @@ DTSTART:20270324T233000Z
 DTEND:20270325T020000Z
 SUMMARY:SA @ BOS
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:San Antonio Spurs at Boston Celtics\nTV: ESPN\nhttps://www.espn
- .com/nba/game/_/gameId/401910803
+DESCRIPTION:San Antonio Spurs at Boston Celtics\nTV: ESPN\, NBC Sports BO\n
+ https://www.espn.com/nba/game/_/gameId/401910803
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910813-spurs@sports-cal
@@ -799,8 +799,8 @@ DTSTART:20270401T000000Z
 DTEND:20270401T023000Z
 SUMMARY:PHX @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Phoenix Suns at San Antonio Spurs\nhttps://www.espn.com/nba/gam
- e/_/gameId/401910861
+DESCRIPTION:Phoenix Suns at San Antonio Spurs\nTV: Suns Live\nhttps://www.e
+ spn.com/nba/game/_/gameId/401910861
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910879-spurs@sports-cal
@@ -859,7 +859,7 @@ DTSTART:20270412T003000Z
 DTEND:20270412T030000Z
 SUMMARY:POR @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Portland Trail Blazers at San Antonio Spurs\nhttps://www.espn.c
- om/nba/game/_/gameId/401910947
+DESCRIPTION:Portland Trail Blazers at San Antonio Spurs\nTV: KUNP 16\, Blaz
+ erVision\nhttps://www.espn.com/nba/game/_/gameId/401910947
 END:VEVENT
 END:VCALENDAR
