@@ -81,6 +81,7 @@ SUMMARY:HOU @ SA
 LOCATION:Moody Center\, Austin\, TX
 DESCRIPTION:Houston Rockets at San Antonio Spurs\nTV: Prime Video\nhttps://
  www.espn.com/nba/game/_/gameId/401909096
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909858-spurs@sports-cal
