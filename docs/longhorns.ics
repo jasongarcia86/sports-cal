@@ -81,6 +81,7 @@ SUMMARY:MISS @ TEX
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 DESCRIPTION:Ole Miss Rebels at Texas Longhorns\nWeek 8\nTV: ABC\nhttps://ww
  w.espn.com/college-football/game/_/gameId/401856732
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401856737-longhorns@sports-cal
@@ -89,8 +90,8 @@ DTSTART:20261031T233000Z
 DTEND:20261101T030000Z
 SUMMARY:MSST @ TEX
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
-DESCRIPTION:Mississippi State Bulldogs at Texas Longhorns\nWeek 9\nhttps://
- www.espn.com/college-football/game/_/gameId/401856737
+DESCRIPTION:Mississippi State Bulldogs at Texas Longhorns\nWeek 9\nTV: ESPN
+ \nhttps://www.espn.com/college-football/game/_/gameId/401856737
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401856743-longhorns@sports-cal
