@@ -126,6 +126,7 @@ SUMMARY:MIN @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:Minnesota Timberwolves at San Antonio Spurs\nTV: NBA League Pas
  s\, DAZN SAS\, DAZN MIN\nhttps://www.espn.com/nba/game/_/gameId/401909901
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909917-spurs@sports-cal
