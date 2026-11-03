@@ -137,6 +137,7 @@ SUMMARY:UTAH @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:Utah Jazz at San Antonio Spurs\nTV: NBA League Pass\, DAZN SAS\
  , KJZZ-TV\, Jazz+\nhttps://www.espn.com/nba/game/_/gameId/401909917
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909933-spurs@sports-cal
