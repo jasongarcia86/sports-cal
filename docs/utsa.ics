@@ -106,13 +106,13 @@ DESCRIPTION:UTSA Roadrunners at Florida Atlantic Owls\nWeek 10\nTV: ESPN\nh
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401862827-utsa@sports-cal
-DTSTAMP:20261114T050000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:UNT @ UTSA (time TBD)
+DTSTAMP:20261115T020000Z
+DTSTART:20261115T020000Z
+DTEND:20261115T053000Z
+SUMMARY:UNT @ UTSA
 LOCATION:Alamodome\, San Antonio\, TX
-DESCRIPTION:North Texas Mean Green at UTSA Roadrunners\nWeek 11\nhttps://ww
- w.espn.com/college-football/game/_/gameId/401862827
+DESCRIPTION:North Texas Mean Green at UTSA Roadrunners\nWeek 11\nTV: ESPNU\
+ nhttps://www.espn.com/college-football/game/_/gameId/401862827
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401862836-utsa@sports-cal
