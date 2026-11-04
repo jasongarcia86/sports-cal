@@ -126,12 +126,12 @@ DESCRIPTION:UTSA Roadrunners at UAB Blazers\nWeek 12\nhttps://www.espn.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401862840-utsa@sports-cal
-DTSTAMP:20261128T050000Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
+DTSTAMP:20261127T050000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
 SUMMARY:TLSA @ UTSA (time TBD)
 LOCATION:Alamodome\, San Antonio\, TX
-DESCRIPTION:Tulsa Golden Hurricane at UTSA Roadrunners\nWeek 13\nhttps://ww
- w.espn.com/college-football/game/_/gameId/401862840
+DESCRIPTION:Tulsa Golden Hurricane at UTSA Roadrunners\nWeek 13\nTV: ESPN\n
+ https://www.espn.com/college-football/game/_/gameId/401862840
 END:VEVENT
 END:VCALENDAR
