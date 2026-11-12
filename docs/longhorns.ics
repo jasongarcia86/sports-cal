@@ -112,8 +112,8 @@ DTSTART:20261115T003000Z
 DTEND:20261115T040000Z
 SUMMARY:TEX @ LSU
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA
-DESCRIPTION:Texas Longhorns at LSU Tigers\nWeek 11\nTV: ABC\nhttps://www.es
- pn.com/college-football/game/_/gameId/401856885
+DESCRIPTION:Texas Longhorns at LSU Tigers\nWeek 11\nTV: ABC\, ERADM\nhttps:
+ //www.espn.com/college-football/game/_/gameId/401856885
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401856755-longhorns@sports-cal
