@@ -147,6 +147,7 @@ SUMMARY:SF @ DAL
 LOCATION:AT&T Stadium\, Arlington\, TX
 DESCRIPTION:San Francisco 49ers at Dallas Cowboys\nWeek 10\nTV: Fox\nhttps:
  //www.espn.com/nfl/game/_/gameId/401873063
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401873073-cowboys@sports-cal
