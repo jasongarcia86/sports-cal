@@ -225,6 +225,7 @@ SUMMARY:DET @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:Detroit Pistons at San Antonio Spurs\nTV: NBC\nhttps://www.espn
  .com/nba/game/_/gameId/401910004
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910022-spurs@sports-cal
