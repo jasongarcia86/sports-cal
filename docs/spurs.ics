@@ -236,6 +236,7 @@ SUMMARY:LAC @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:LA Clippers at San Antonio Spurs\nTV: DAZN SAS\, KTLA\, Clipper
  Vision\nhttps://www.espn.com/nba/game/_/gameId/401910022
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910027-spurs@sports-cal
