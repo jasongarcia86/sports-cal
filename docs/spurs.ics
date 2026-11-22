@@ -247,6 +247,7 @@ SUMMARY:NO @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:New Orleans Pelicans at San Antonio Spurs\nTV: DAZN SAS\, GCSEN
  \, Pelicans.com\nhttps://www.espn.com/nba/game/_/gameId/401910027
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910045-spurs@sports-cal
