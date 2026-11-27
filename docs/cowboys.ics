@@ -169,6 +169,7 @@ SUMMARY:PHI @ DAL
 LOCATION:AT&T Stadium\, Arlington\, TX
 DESCRIPTION:Philadelphia Eagles at Dallas Cowboys\nWeek 12\nTV: Fox\nhttps:
  //www.espn.com/nfl/game/_/gameId/401873080
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401873108-cowboys@sports-cal
