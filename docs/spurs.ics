@@ -280,6 +280,7 @@ SUMMARY:LAL @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:Los Angeles Lakers at San Antonio Spurs\nTV: Prime Video\nhttps
  ://www.espn.com/nba/game/_/gameId/401909333
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910052-spurs@sports-cal
@@ -303,13 +304,23 @@ DESCRIPTION:San Antonio Spurs at Milwaukee Bucks\nTV: MyMi\, Bucks App\, DA
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910088-spurs@sports-cal
-DTSTAMP:20261204T010000Z
-DTSTART:20261204T010000Z
-DTEND:20261204T033000Z
+DTSTAMP:20261203T010000Z
+DTSTART:20261203T010000Z
+DTEND:20261203T033000Z
 SUMMARY:TOR @ SA
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:Toronto Raptors at San Antonio Spurs\nhttps://www.espn.com/nba/
  game/_/gameId/401910088
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909451-spurs@sports-cal
+DTSTAMP:20261205T023000Z
+DTSTART:20261205T023000Z
+DTEND:20261205T050000Z
+SUMMARY:SA @ DAL
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:San Antonio Spurs at Dallas Mavericks\nTV: Prime Video\, DAZN S
+ AS\nhttps://www.espn.com/nba/game/_/gameId/401909451
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910102-spurs@sports-cal
